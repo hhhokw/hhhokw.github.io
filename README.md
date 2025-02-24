@@ -40,4 +40,4 @@
 - 每周日对一周的学习内容作总结，确定下一周的具体任务，及时调整计划
 
 <br>
-<img src="https://github.com/hhhokw/hhhokw.github.io/blob/main/8718367adab44aed4e765e1181cc2f09a08bfb60.jpeg?raw=true" alt="小鲨鱼要努力学习" width="300" />
+<img src="https://github.com/hhhokw/hhhokw.github.io/raw/main/8718367adab44aed4e765e1181cc2f09a08bfb60.jpeg" alt="小鲨鱼要努力学习" width="300" />
